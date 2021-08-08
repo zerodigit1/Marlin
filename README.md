@@ -1,3 +1,4 @@
+USE IT AT YOUR OWN RISK, you may brick your board. I take no responsability or liability on using the code and changes on it.
 
 This is a Marlin 2.0 firmware for ANET ET5 with BLTouch This is a clone from the repository https://github.com/davidtgbe/Marlin David created all the good work to set up Marling with ANET ETx series, this copy is just my settings to my personal printer. It's important to read carefully all the details from his repository to understand the process on how to set this firmware on a ANET board.
 
