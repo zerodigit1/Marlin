@@ -1,3 +1,10 @@
+
+Marlin for ANET ET5 with BLTouch This is a clone from the repository https://github.com/davidtgbe/Marlin David created all the good work to set up Marling with ANET ETx series, this copy is just my settings to my personal printer. It's important to read carefully all the details from his repository to understand the process on how to set this firmware on a ANET board.
+
+i've also used several Youtube videos for reference but I do recomend watching DR VAX video below for a in depth and detail steps https://www.youtube.com/watch?v=qPDBNBgdW6o&t=510s
+
+
+
 # Marlin for ET4/5 series 3D printers
 ![counter](https://enoreg85bg22wzz.m.pipedream.net)
 
